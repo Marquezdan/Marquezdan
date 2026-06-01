@@ -51,25 +51,6 @@ Besides academic research, I am also interested in data analysis, data visualiza
 
 </div>
 
-
-</div>
-
----
-
-## Projects and studies
-
-I am currently working on projects related to:
-
-- Regression models for vehicle fuel consumption estimation;
-- Neural networks applied to OBD vehicle data;
-- Comparison between deterministic models and uncertainty estimation methods;
-- Laplace Approximation applied to neural networks;
-- Experiments with Deep Ensembles;
-- Evaluation using metrics such as MSE, R², calibration, and predictive uncertainty;
-- Visualization and interpretation of Machine Learning model results.
-
----
-
 ## GitHub stats
 
 <div align="center">
@@ -82,17 +63,6 @@ I am currently working on projects related to:
 
 ---
 
-## Currently studying
-
-- Bayesian Neural Networks
-- Uncertainty Quantification in Deep Learning
-- Laplace Approximation
-- Probabilistic Models
-- Best practices for data projects
-- Project organization on GitHub
-
----
-
 ## Contact
 
 <div align="left">
@@ -101,7 +71,3 @@ I am currently working on projects related to:
 [![Gmail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marquesspeed99@gmail.com)
 
 </div>
-
----
-
-> “Turning data into knowledge, models into solutions, and uncertainty into useful information.”
