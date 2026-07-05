@@ -1,6 +1,6 @@
 # Daniel Marques
 
- Master's student in Metrology at the National Institute of Metrology, Quality and Technology — Inmetro  
+ Master's in Metrology and Technology by the National Institute of Metrology, Quality and Technology — Inmetro  
  Data Science, Machine Learning, and Deep Learning enthusiast  
  Currently researching uncertainty estimation in vehicle fuel consumption and emissions models  
  Interested in Python, data analysis, neural networks, Laplace approximation, and probabilistic models  
